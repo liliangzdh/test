@@ -10,3 +10,5 @@ py3
 
 #启动服务
 (py3) [liliang@VM_0_17_centos django-blog-tutorial]$ python manage.py runserver 0.0.0.0:8000
+
+管理：admin
