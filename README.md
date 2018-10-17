@@ -12,3 +12,11 @@ py3
 (py3) [liliang@VM_0_17_centos django-blog-tutorial]$ python manage.py runserver 0.0.0.0:8000
 
 管理：admin
+
+
+运行项目
+
+
+npm i
+react-native link
+react-native run-ios
